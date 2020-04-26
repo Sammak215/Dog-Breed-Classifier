@@ -17,7 +17,7 @@ images - folder which contain all the images for the algorithum to use
 saved_models - pre-trained model weights files
 haarcascades - XML files for detections by OpenCV
 
-#Process
+# Process
 1. Import Datasets
 2. Detect Humans
 3. Detect Dogs
