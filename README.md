@@ -33,3 +33,8 @@ Using transfer learning is by far best technique to quickly build a model as com
 Model Accuracy : Test accuracy: 79.5455%
 
 For more better results ,the model can be trained with larger number of epochs , adding more layers to the CNN network and using much larger dataset to train model.
+
+Article Link:
+https://medium.com/@sammakhussain26_36791/computer-can-detect-dog-breeds-too-cfeb7aa3d3db
+
+GitHub: https://github.com/Sammak215/Dog-Breed-Classifier
